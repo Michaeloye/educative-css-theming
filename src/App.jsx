@@ -1,4 +1,5 @@
 import "./App.css";
+import { initializeTheming } from "css-theming";
 
 function App() {
   return (
